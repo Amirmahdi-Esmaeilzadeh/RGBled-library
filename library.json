@@ -1,11 +1,11 @@
 {
-  "name": "LiquidCrystal_I2C",
-  "keywords": "LCD, liquidcrystal, I2C",
+  "name": "RGBled",
+  "keywords": "RGBled,RGB,LED,3color",
   "description": "A library for DFRobot I2C LCD displays",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/amirmahdi-boom/pushbutton_library"
+    "url": "https://github.com/amirmahdi-boom/RGBled_library"
   },
   "frameworks": "arduino",
   "platforms":
